@@ -1,0 +1,4 @@
+com\munjal\covid\CovidTrackerApplication.class
+com\munjal\covid\controllers\HomeController.class
+com\munjal\covid\models\LocationStats.class
+com\munjal\covid\services\CoronaVirusDataService.class
